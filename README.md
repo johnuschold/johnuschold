@@ -16,4 +16,4 @@ Platforms & Tools: Git, Streamlit, Tableau, Docker
 
 👋🏻 Connect with Me
 ---
-[Linkedin](www.linkedin.com/in/johnuschold)
+[LinkedIn](https://www.linkedin.com/in/johnuschold)
